@@ -1,0 +1,23 @@
+{
+  "name": "js_intensive_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DereviankinNikita/js_intensive_course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DereviankinNikita/js_intensive_course/issues"
+  },
+  "homepage": "https://github.com/DereviankinNikita/js_intensive_course#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "@types/node": "^20.11.6",
+    "eslint": "8.56.0"
+  }
+}
